@@ -23,7 +23,8 @@ While I specialize in **Backend Development using Java & Spring Boot**, I value 
 
 ---
 
-## 📋 Project Table
+## 📋 Project Table  
+<sub>🔗 Please open each link in a new tab </sub>
 
 | Project Name                  | Practice Type           | Tech Stack              | Live Repo |
 |-------------------------------|--------------------------|--------------------------|-----------|
@@ -37,51 +38,6 @@ While I specialize in **Backend Development using Java & Spring Boot**, I value 
 > Each project has its own `README.md` and tech breakdown.
 
 ---
-<h2>📋 Project Table</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Practice Type</th>
-      <th>Tech Stack</th>
-      <th>Live Repo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Town Page Demo</td>
-      <td>Static Page Styling</td>
-      <td>HTML, CSS</td>
-      <td><a href="https://github.com/ehab-elshimi-developer/TownPage" target="_blank">Repo Link</a></td>
-    </tr>
-    <tr>
-      <td>Personal Page Showcase</td>
-      <td>Personal Landing Page</td>
-      <td>HTML, CSS, Bootstrap 5</td>
-      <td><a href="https://github.com/ehab-elshimi-developer/PersonalPage" target="_blank">Repo Link</a></td>
-    </tr>
-    <tr>
-      <td>DokanShop Multi Page</td>
-      <td>Bootstrap Multipage Site</td>
-      <td>HTML, Bootstrap 5</td>
-      <td><a href="https://github.com/ehab-elshimi-developer/DokanShopMultiPage" target="_blank">Repo Link</a></td>
-    </tr>
-    <tr>
-      <td>CaraShop Ecommerce Template</td>
-      <td>Bootstrap Shop Template</td>
-      <td>HTML, Bootstrap 5</td>
-      <td><a href="https://github.com/ehab-elshimi-developer/CaraShop" target="_blank">Repo Link</a></td>
-    </tr>
-    <tr>
-      <td>Currency Exchange Calculator</td>
-      <td>DOM + JS Interaction</td>
-      <td>HTML, CSS, JavaScript</td>
-      <td><a href="https://github.com/ehab-elshimi-developer/Currency_Exchange" target="_blank">Repo Link</a></td>
-    </tr>
-  </tbody>
-</table>
-
 
 ## 👨‍💻 About Me
 
