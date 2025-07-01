@@ -25,14 +25,14 @@ While I specialize in **Backend Development using Java & Spring Boot**, I value 
 
 ## 📋 Project Table
 
-| Project Name | Tech Stack | Live Repo |
-|--------------|------------|-----------|
-| CSS Practice | HTML, CSS | [Repo Link](https://github.com/ehabshimi/css-practice-project) |
-| Bootstrap Layout | HTML, Bootstrap 5 | [Repo Link](https://github.com/ehabshimi/bootstrap-layout-project) |
-| JS Exercises (1-6) | JavaScript | [Repo Link](https://github.com/ehabshimi/js-exercises-review) |
-| Tailwind Demo | Tailwind CSS | [Repo Link](https://github.com/ehabshimi/tailwind-demo) |
-| React Shopping Cart | React.js | [Repo Link](https://github.com/ehabshimi/react-cart-demo) |
-| Next.js Blog | Next.js | [Repo Link](https://github.com/ehabshimi/nextjs-blog-demo) |
+| Project Name                  | Practice Type           | Tech Stack              | Live Repo |
+|-------------------------------|--------------------------|--------------------------|-----------|
+| Town Page Demo                | Static Page Styling      | HTML, CSS                | [Repo Link](https://github.com/ehab-elshimi-developer/TownPage) |
+| Personal Page Showcase        | Personal Landing Page    | HTML, CSS, Bootstrap 5   | [Repo Link](https://github.com/ehab-elshimi-developer/PersonalPage) |
+| DokanShop Multi Page          | Bootstrap Multipage Site | HTML, Bootstrap 5        | [Repo Link](https://github.com/ehab-elshimi-developer/DokanShopMultiPage) |
+| CaraShop Ecommerce Template   | Bootstrap Shop Template  | HTML, Bootstrap 5        | [Repo Link](https://github.com/ehab-elshimi-developer/CaraShop) |
+| Currency Exchange Calculator  | DOM + JS Interaction     | HTML, CSS, JavaScript    | [Repo Link](https://github.com/ehab-elshimi-developer/Currency_Exchange) |
+
 
 > Each project has its own `README.md` and tech breakdown.
 
