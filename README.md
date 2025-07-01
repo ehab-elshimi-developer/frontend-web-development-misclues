@@ -51,7 +51,7 @@ I'm **Ehab Elshimi**, a backend-focused software engineer passionate about clean
 - 🐳 **Docker**, **Git**, **CI/CD pipelines**
 - 🌍 Awareness of frontend technologies to support full-stack collaboration
 
-🔗 **Main GitHub Profile** → [ehabshimi](https://github.com/ehabshimi)  
+🔗 **Main GitHub Profile** → [ehabshimi](https://github.com/ehab-elshimi-developer)  
 
 🌟 **Frontend Star List** → [Frontend Knowledge](https://github.com/stars/ehab-elshimi-developer/lists/frontend-knowledge)
 
